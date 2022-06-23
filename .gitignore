@@ -1,0 +1,15 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!readme.md
+
+# include a folder
+!openssl_win32_x64_release
+!openssl_win32_x64_release/**
+
+!ssl_win32_x64_release
+!ssl_win32_x64_release/**
+
+
